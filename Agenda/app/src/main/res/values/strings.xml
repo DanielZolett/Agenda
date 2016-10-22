@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Adic. novo contato</string>
+
+    <string name="Nome">Nome: </string>
+    <string name="Fone">Telefone: </string>
+    <string name="Email">Email: </string>
+    <string name="action_settings">Settings</string>
+    <string name="Butom">Mais Campos</string>
+
+    <string-array name="Salvar">
+        <item>marcelom56@gmail.com</item>
+    </string-array>
+
+    <string-array name="Mobiles">
+        <item>Celular</item>
+    </string-array>
+
+    <string-array name="Residencial">
+        <item>Residencial</item>
+        <item>Sem teto</item>
+    </string-array>
+</resources>

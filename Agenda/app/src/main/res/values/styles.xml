@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Textos" parent="android:Theme.Material.Light">
+        <item name="android:textColorHint">#aba6a6</item>
+    </style>
+
+    <style name="Salvar_em" parent="android:Theme.Material.Light">
+        <item name="android:textColor">#181818</item>
+    </style>
+
+    <style name="Butom" parent="android:Theme.Material.Light">
+        <item name="android:background">#fdfdfd</item>
+    </style>
+
+</resources>

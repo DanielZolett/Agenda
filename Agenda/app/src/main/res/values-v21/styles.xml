@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:background">#fbfdfd</item>
+        <item name="android:actionBarTheme">@style/Logo_app</item>
+        <item name="android:dialogTheme">@style/Textos</item>
+    </style>
+
+    <style name="Logo_app" parent="android:Theme.Material.Light">
+        <item name="android:background">#3593ff</item>
+    </style>
+</resources>

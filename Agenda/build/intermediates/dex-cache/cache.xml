@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_675f6172459505eaa95aa44f5d339788b3a80f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_6ec6d877262cf46eaad6e53305c1895ce2b165b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30ea4a7a6270d30c95834cb5092194b30ee1edf5">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8d91778f8f0cb65c2547a2495cfbf79cea42c7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_7c1240fbf4db2cb3b66ea6f754ee91b72647bc55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f45f6abe3773260a1bccf6bcf773f6ae554a4655">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e83dd45b36500b453df2f889c16949c582d80702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_6273583f7dc9e982d54543de63fb7692fb5b4362\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\exploded-aar\com.github.ganfra\material-spinner\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0df3bf618b078d102a4234ceff33c44026e64b9">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ganfra-material-spinner-1.1.1_422e5a2e53298aa085395c2ae27da1d5c35bc195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_f59baf1fc9604a48585388c121886a5b6b58b46b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\daniel\Documents\dani\andrid\Agenda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_4447ffc54c8f178adc031e8ad0c604f993beb7ce\classes.dex" />
+    </item>
+
+</items>

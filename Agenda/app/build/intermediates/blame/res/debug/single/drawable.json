@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_background.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.github.ganfra\\material-spinner\\1.1.1\\res\\drawable\\my_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pessoa.jpg",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\pessoa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pessoaqua1.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\pessoaqua1.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\telefone.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\telefone.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pessoa_ciculo.jpg",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\pessoa_ciculo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pessoabo.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\pessoabo.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_white_540dp.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\person_white_540dp.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pessoapes3.png",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\src\\main\\res\\drawable\\pessoapes3.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\daniel\\Documents\\dani\\andrid\\Agenda\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]
